@@ -1,0 +1,13 @@
+.transactionHistory{
+    width: 400px;
+    
+}
+.tableHead{
+    background-color: rgb(87, 128, 60);
+    border-color: black;
+}
+
+.tableBody{
+    background-color: rgb(112, 221, 144);
+    text-align: center;
+}
