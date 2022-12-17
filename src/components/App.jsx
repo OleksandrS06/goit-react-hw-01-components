@@ -1,5 +1,5 @@
 import { Profile } from './Profile/Profile';
-import { Statistics } from './Statistics/Statistics';
+import { Statistics } from './statistics/Statistics';
 import { FriendList } from './FriendList/FriendList';
 import { TransactionHistory } from './TransactionHistory/TransactionHistory';
 
